@@ -1,4 +1,4 @@
-# Diabetes Detection among patients with various risk factors
+# Machine Learning in Healthcare: Diabetes Detection among patients with various risk factors
 
 ## Project Aim
 The aim of this project is to investigate the likelihood of diabetes through a comprehensive analysis of various risk factors. Unlike traditional methods relying heavily on logistic regression, more robust machine learning techniques, particularly ensemble methods known for capturing complex relationships have been used. The project aims to achieve practical significance by identifying high-risk individuals early and contributing to targeted strategies for reducing diabetes prevalence.
